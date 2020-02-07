@@ -1,6 +1,6 @@
 ---
 title: Docs as Code
-summary: Describing documentation site updating process automation dd
+summary: Describing documentation site updating process automation
 tags:
 - docs_as_code
 date: "2019-07-15T10:39:00Z"
