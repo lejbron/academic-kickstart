@@ -29,7 +29,7 @@ education:
   courses:
   - course: Specialist in Aplied Informatics
     institution: Plekhanov Russian University of Economics
-    year: 2014-2019
+    year: 2009-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
