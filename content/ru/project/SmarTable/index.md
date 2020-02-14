@@ -1,6 +1,6 @@
 ---
 title: SmarTable
-summary: Rotary table for 3D-photography
+summary: Поворотный стол для 3D-фотографии
 tags:
 - smartable
 date: "2018-06-27T00:00:00Z"

@@ -13,17 +13,17 @@ superuser: true
 role: Technical Writer
 
 # Organizations/Affiliations
-#organizations:
-#- name: mail.ru group
-#  url: "https://corp.mail.ru/en/"
+organizations:
+- name: mail.ru group
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3d-printing, microcontroller programming and painting.
+bio: My research interests include 3d-printing, microcontroller programming and painting miniatures.
 
 interests:
 - 3D-printing
 - Microcontroller programming
-- Painting
+- Painting miniatures
 
 education:
   courses:
@@ -61,4 +61,4 @@ email: ""
 #- Visitors
 ---
 
-Non-mathematical mindset engineer with more then five years teamwork experience in IT. My main inspiration is exploration of new technologies, which is meticulously studing avaliable data suorces and systematizing gained knowledge for better understanding. Now I am completly immersed in new work, trying my best to create accessible and easy-to-use documentation for big microservice application.
+Non-mathematical mindset engineer with more than five years teamwork experience in IT. My main inspiration is discovering new technologies, testing them and implementing in my own projects and job practice. Now I am completely immersed in new work, trying my best to create accessible and easy-to-use documentation for big microservice application.

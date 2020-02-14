@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018-12-12"
   date_end = ""
   description = """
-  Developing technical documentation for a microservice application, implementing the documentation as code approach.
-  Responsibilities include:
+  Manage technical documentation development for a microservice application, implementing the documentation as code approach.
+  Responsibilities:
 
-  * Create API documentation
-  * Maintain Confluence knowledge base
-  * Document key processes
+  * Manage project knowledge base  
+  * Control the process of creating and maintaining API documentation
+  * Describe product features' for developers and testers
   """
 
 [[experience]]
@@ -41,12 +41,12 @@ date_format = "Jan 2006"
   date_start = "2015-02-18"
   date_end = "2018-10-31"
   description = """
-  Designed a role model for bank and a bunch of customizations for Oracle IDM to use this model in application.
-  Responsibilities included:
+  Designed a role model for bank departments and a bunch of customizations for Oracle IDM to use this model in application.
+  Responsibilities:
 
-  * Maintain application
-  * Train bank employees
-  * Document process
+  * Interact with customer from bank side
+  * Manage application implimintation process
+  * Be responsible for process of transition to new role model
   """
 
 [[experience]]
@@ -56,5 +56,8 @@ date_format = "Jan 2006"
   location = "Moscow"
   date_start = "2012-07-04"
   date_end = "2014-06-30"
-  description = """Created a formal description of the existing and introduced procedures for analyzing data from banking systems for violations of information security policies."""
+  description = """
+  From scratch, established interaction with the Kazakhstan branch of the bank in the process of checking the region’s regular reporting.
+  Made reviews of the bank’s applications usage for information security policy violations on daily and monthly basis.
+  """
 +++

@@ -1,6 +1,6 @@
 ---
-title: Docs as Code
-summary: Describing documentation site updating process automation ye
+title: Docs as Code. Automating update
+summary: Describing updating process automation with Jenkins for documentation site, built with sphinx-doc.
 tags:
 - docs_as_code
 date: "2019-07-15T10:39:00Z"

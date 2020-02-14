@@ -1,6 +1,6 @@
 ---
 title: Melty3D
-summary: DIY 3D Printer
+summary: DIY 3D принтер
 tags:
 - melty
 date: "2020-02-01T00:00:00Z"

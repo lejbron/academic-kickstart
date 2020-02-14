@@ -18,7 +18,7 @@ subtitle = ""
   icon = "markdown"
   icon_pack = "fab"
   name = "markdown"
-  description = "100%"  
+  description = "90%"  
 
 [[feature]]
   icon = "book-dead"

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Опыт работы"
 subtitle = ""
 
 # Date format for experience
@@ -18,43 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Technical Writer"
+  title = "Технический писатель"
   company = "mail.ru group"
-  company_url = "https://corp.mail.ru/en/"
-  location = "Moscow"
+  company_url = "https://corp.mail.ru/ru/"
+  location = "Москва"
   date_start = "2018-12-12"
   date_end = ""
   description = """
-  Developing technical documentation for a microservice application, implementing the documentation as code approach.
-  Responsibilities include:
+  Управление разработкой документации для микросервисного приложения с применением методики documentation as code.
 
-  * Create API documentation
-  * Maintain Confluence knowledge base
-  * Document key processes
+  Обязанности:
+
+  * Управление базой знаний проекта
+  * Контроль процессса создания и поддержки документации API
+  * Описание функций продукта для разработчиков и тестировщиков
   """
 
 [[experience]]
-  title = "Senior Engineer"
-  company = "FORS Development Center"
-  company_url = "http://fors.com/"
-  location = "Moscow"
+  title = "Старший Инженер"
+  company = "ФОРС Центр разработки"
+  company_url = "http://fors.ru/"
+  location = "Москва"
   date_start = "2015-02-18"
   date_end = "2018-10-31"
   description = """
-  Designed a role model for bank and a bunch of customizations for Oracle IDM to use this model in application.
-  Responsibilities included:
+  Спроектировал ролевую модель для департаментов банка и сделал необходимые кастомизации интерфейса Oracle IDM для возможности работы с созданной моделью.
 
-  * Maintain application
-  * Train bank employees
-  * Document process
+  Обязанности:
+
+  * Взаимодействие с заказчиком со стороны банка
+  * Управление процессом внедрения приложения
+  * Ответственность за переход технических департаментов банка на новую ролевую модель
   """
 
 [[experience]]
-  title = "Information Security Officer"
+  title = "Специалист по информационной безопасности"
   company = "Citibank"
   company_url = "https://www.citigroup.com/citi/"
-  location = "Moscow"
+  location = "Москва"
   date_start = "2012-07-04"
   date_end = "2014-06-30"
-  description = """Created a formal description of the existing and introduced procedures for analyzing data from banking systems for violations of information security policies."""
+  description = """
+  С нуля наладил взаимодействие с Казахстанским филиалом банка в процессе проверки регулярной отчетности региона.
+  
+  Проводил проверки банковских приложений на предмет нарушений политики информационной безопасности на ежедневной и ежемесячной основе.
+  """
 +++

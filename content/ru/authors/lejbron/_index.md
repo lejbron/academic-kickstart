@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alex Solntsev
+name: Алексей Солнцев
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Technical Writer
+role: Технический писатель
 
 # Organizations/Affiliations
-#organizations:
-#- name: mail.ru group
-#  url: "https://corp.mail.ru/en/"
+organizations:
+- name: mail.ru group
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3d-printing, microcontroller programming and painting.
+bio: Мне интересны программирование микроконтроллеров, 3D-печать и покраска миниатюр.
 
 interests:
-- 3D-printing
-- Microcontroller programming
-- Painting
+- 3D-печать
+- Программирование микроконтроллеров
+- Покраска миниатюр
 
 education:
   courses:
-  - course: Specialist in Aplied Informatics
-    institution: Plekhanov Russian University of Economics
+  - course: Специалист по прикладной информатике в экономике
+    institution: Государственный университет им. Г.В. Плеханова
     year: 2014-2019
 
 # Social/Academic Networking
@@ -61,4 +61,4 @@ email: ""
 #- Visitors
 ---
 
-Non-mathematical mindset engineer with more then five years teamwork experience in IT. My main inspiration is exploration of new technologies, which is meticulously studing avaliable data suorces and systematizing gained knowledge for better understanding. Now I am completly immersed in new work, trying my best to create accessible and easy-to-use documentation for big microservice application.
+Инженер с гуманитраным складом ума и более чем пятилетним опытом командной работы в IT. Моим главным интересом является поиск новых технологий, их тестирование и применение на практике как в работе, так и в моих личных проектах. Сейчас я полностью погружён в новую работу над созданием удобной и доступной документации большого микросервисного приложения.

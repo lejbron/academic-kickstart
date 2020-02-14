@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Курсы"
 subtitle = ""
 
 # Date format
@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Fundamentals of Project Planning and Management"
+  title = "Основы планирования и управления проектом"
   url = "https://www.coursera.org/learn/uva-darden-project-management?source=deprecated_spark_cdp"
   certificate_url = ""
   date_start = "2015-05-08"
   date_end = "2015-06-08"
-  description = "This class introduces the concepts of project planning, Agile Project Management, critical path method, network analysis, and simulation for project risk analysis. Learners are equipped with the language and mindset for planning and managing successful projects."
+  description = "В этом курсе представлены концепции планирования проекта, Agile управления проектами, метода критического пути, сетевого анализа и моделирования для анализа рисков проекта. Учащиеся оснащены языком и мышлением для планирования и управления успешными проектами."
 
 +++
