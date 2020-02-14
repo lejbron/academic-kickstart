@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-12-12"
   date_end = ""
   description = """
-  Manage technical documentation development for a microservice application, implementing the documentation as code approach.
+  Manage technical documentation development for a microservice application, implementing the [documentation as code](https://www.writethedocs.org/guide/docs-as-code/) approach.
   Responsibilities:
 
   * Manage project knowledge base  
