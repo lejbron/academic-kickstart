@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   * Manage project knowledge base  
   * Control the process of creating and maintaining API documentation
-  * Describe product features' for developers and testers
+  * Describe product features for developers and testers
   """
 
 [[experience]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   Responsibilities:
 
   * Interact with customer from bank side
-  * Manage application implimintation process
+  * Manage application implementation process
   * Be responsible for process of transition to new role model
   """
 
